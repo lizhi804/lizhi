@@ -1,3 +1,0 @@
-cout<<'hellow word'；
-int n;
-cin>>n;
